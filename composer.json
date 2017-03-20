@@ -1,0 +1,17 @@
+{
+  "config": {
+    "vendor-dir": "vendor/composer"
+  },
+  "require": {
+    "php": "^7.0",
+    "ext-mbstring": "*",
+    "ext-openssl": "*",
+    "nystudio107/craft-disqus": "dev-timkelty-develop"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/timkelty/disqus"
+    }
+  ]
+}
