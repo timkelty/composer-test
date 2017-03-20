@@ -6,7 +6,8 @@
     "php": "^7.0",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "nystudio107/craft-disqus": "dev-timkelty-develop"
+    "nystudio107/craft-disqus": "dev-timkelty-develop",
+    "illuminate/support": "^5.4"
   },
   "repositories": [
     {
